@@ -81,10 +81,10 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 
 ## Graphical User Interface:
 #### A USA Real-Time Road Detection
-<img src="https://github.com/marco9469/realtime-object-detection/blob/master/doc/detector1.jpg">
+<img src="https://github.com/marco9469/realtime-object-detection/blob/main/doc/detector1.jpg">
 
 #### A UK Real-Time Road Detection
-<img src="https://github.com/marco9469/realtime-object-detection/blob/master/doc/detector2.jpg">
+<img src="https://github.com/marco9469/realtime-object-detection/blob/main/doc/detector2.jpg">
 
 #### A Real-Time Webcam Detection
-<img src="https://github.com/marco9469/realtime-object-detection/blob/master/doc/webcam_detector.jpg">
+<img src="https://github.com/marco9469/realtime-object-detection/blob/main/doc/webcam_detector.jpg">
